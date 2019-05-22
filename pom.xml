@@ -15,7 +15,8 @@
     <description>Demo project for Spring Boot</description>
 
     <modules>
-        <module>chapter1</module>
+        <!--<module>chapter1</module>-->
+        <module>chapter4</module>
     </modules>
 
 </project>
